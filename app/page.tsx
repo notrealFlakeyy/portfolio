@@ -24,7 +24,7 @@ export default function Home() {
           initial={{ opacity: 0, y: -50 }} 
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}>
-          Hi, I&#39;m Lucas.
+          Hi, my name is Lucas Svens.
         </motion.h1>
         <motion.p 
           className="mt-4 text-lg text-gray-400" 
